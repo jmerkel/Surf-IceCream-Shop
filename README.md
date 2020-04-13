@@ -6,26 +6,32 @@ In reviewing the seasonal data for the years between 2010 & 2017, there are a fe
 Overall, the temperature & precipitation doesn't vary too much between the months of July & December. However, it is clear that the temperature in December is about 5 degrees cooler. Additionally, it rains at a lower frequency in December compared to July, but generally has a higher intensity of precipitation. Judging solely from this information, there may be an uptick in customers in July as a majority of days are in the 70s. December on the other hand only had 50% of the days be above 71 degrees. Keeping this in mind, the following are some recommendations on additional research
 
 
-### JULY  tobs	       precipitation
-count	1711.000000	 1569.000000
-mean	76.082408	   0.167922
-std	  3.356532	   0.625977
-min	  61.000000	   0.000000
-25%	  74.000000	   0.000000
-50%	  76.000000	   0.020000
-75%	  78.000000	   0.120000
-max	  87.000000	   11.530000
+### JULY  
+
+|metric | tobs | precipitation |
+| --- | ---- | ------------- |
+|count | 1711.000000 | 1569.000000 |
+| mean | 76.082408 | 0.167922 | 
+| std | 3.356532 | 0.625977 | 
+| min | 61.000000 | 0.000000 | 
+| 25% | 74.000000 | 0.000000 | 
+| 50% | 76.000000 | 0.020000 | 
+| 75% | 78.000000 | 0.120000 | 
+| max | 87.000000 | 11.530000 | 
 
 
-### DEC   tobs	       precipitation
-count	1517.000000	 1405.000000
-mean	71.041529	   0.216819
-std	  3.745920	   0.541399
-min	  56.000000	   0.000000
-25%	  69.000000	   0.000000
-50%	  71.000000	   0.030000
-75%	  74.000000	   0.150000
-max	  83.000000	   6.420000
+### DEC  
+
+|metric | tobs | precipitation |
+| --- | ---- | ------------- |
+| count | 1517.000000 | 1405.000000 | 
+| mean | 71.041529 | 0.216819 | 
+| std | 3.745920 | 0.541399 | 
+| min | 56.000000 | 0.000000 | 
+| 25% | 69.000000 | 0.000000 | 
+| 50% | 71.000000 | 0.030000 | 
+| 75% | 74.000000 | 0.150000 | 
+| max | 83.000000 | 6.420000 |
 
 
 ## Recommendations
